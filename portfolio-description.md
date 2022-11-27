@@ -1,5 +1,5 @@
 ## About me
-I'm a scripter of 5 years, and I am very well versed with the Roblox game engine. I can make dynamic and flexible systems for your game that are easy to understand and change at any moment.
+I'm a scripter and programmer of 5 years, and I am very well versed with the Roblox game engine. I can make dynamic and flexible systems for your game that are easy to understand and change at any moment.
 
 ## Skill Set
 * OOP
