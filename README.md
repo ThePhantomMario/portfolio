@@ -22,6 +22,8 @@ I'm a scripter of 5 years, and I am very well versed with the Roblox game engine
 * UI animations and platform-friendly UI scaling 
 > everything you see above are my best qualities, but I am not limited to them.
 
+> ### [proof of past commissions](https://github.com/ThePhantomMario/portfolio/wiki/Past-commissions)
+
 ## Payment
 I take USD (paypal) and sometimes Robux.
 
