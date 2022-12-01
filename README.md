@@ -3,7 +3,7 @@ I'm a scripter of 5 years, and I am very well versed with the Roblox game engine
 
 ## Skill Set
 * OOP
-* Math
+* Math (on a high school level. unit circle, physics, interse knimatics)
 * Networking
 * Fullstack Web Dev
 
